@@ -15,13 +15,13 @@ We utilize a Large Language Model (`StartLLM-Decisions-8B-instruct`) to extract 
 ## 📈 Results Summary
 - **Top-10 Coverage**: Best achieved by Raw-History CNN and CNN + 8-32 week rate (14.74%).
 - **Average Precision (AP)**: System-1 text features improved AP in 11 out of 12 models, proving its capability in overall risk ranking.
-*(这里可以插入你 PPT 里的两张漂亮的柱状图)*
+*(这里插入 PPT 里的两张漂亮的柱状图)*
 
 ## 📂 Repository Structure
-(此处可以列出你的文件夹结构说明，方便别人看懂)
+(此处可以列出你的文件夹结构说明)
 
 ## 🚀 How to Run
-(在这里教别人怎么运行你的代码，比如 `pip install -r requirements.txt` 等)
+(在这里教别人怎么运行你的代码，暂定)
 
 ## 👥 Authors
 (填上你和你队友的名字)
