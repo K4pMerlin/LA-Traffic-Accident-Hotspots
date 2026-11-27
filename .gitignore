@@ -1,0 +1,32 @@
+# Local datasets and generated artifacts
+/data/**
+!/data/README.md
+/cleaned_data/
+/outputs/
+*.parquet
+*.duckdb
+*.duckdb.wal
+
+# Local environments, notebooks and credentials
+.venv/
+venv/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.hf-cache/
+.cache/
+
+# Historical drafts and administrative documents kept locally
+*.docx
+*.pdf
+/reports/*
+!/reports/US_Accidents_切片.md
+!/reports/GEOG7308_数据清洗代码评审.md
+
+# OS files
+.DS_Store
+Thumbs.db
